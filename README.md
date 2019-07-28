@@ -1,5 +1,4 @@
 # 추천 시스템 조사 및 구축 방법에 대한 조사
----
 ## 추천 방법
 - 사용자에게 적합한 상품
 - 다양한 상품 추천
@@ -29,8 +28,8 @@
 
 
 ### Model-based recommender systems
-- TF-Ranking [https://www.youtube.com/watch?v=ldWy3885qXc]
-[https://www.youtube.com/watch?v=ldWy3885qXc]: https://www.youtube.com/watch?v=ldWy3885qXc
+- TF-Ranking [youtube link]
+[youtube link]: https://www.youtube.com/watch?v=ldWy3885qXc
 
 - 협업필터링과 스태킹 모형을 이용한 상품추천시스템 개발
 실험 결과는 제안 모형이 단순히 협업필터링만을 이용한 추천시스템과 스태킹 모형의 적용 없이 기계학습 모 델로 구축한 추천시스템에 비해 추천 성능이 향상됨을 보였다
