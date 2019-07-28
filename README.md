@@ -55,7 +55,7 @@
 
 - 자동차 번호판 인식기 - Python, 이미지 프로세싱
     > 이미지 프로세싱과 AgensGraph 의 데이터 시각화 이미지를 결합한 실시간 분석
-    + https://github.com/kairess/movie_recommendation_engine.git
+    + https://www.youtube.com/watch?v=mLwMe4KUZz8
 
 
 ## 테스트가 필요한 내용들
