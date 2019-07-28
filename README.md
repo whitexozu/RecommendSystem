@@ -28,12 +28,16 @@
 
 
 ### Model-based recommender systems
-- TF-Ranking [youtube link]
-[youtube link]: https://www.youtube.com/watch?v=ldWy3885qXc
+- TF-Ranking 
+    > 정보검색(IR)과 추천(Recommendation)에서 사용 가능
+      LTR 분야
+      Light GBM 같은 기존 모델이 있었으나 대용량 처리를 위해 TF-Ranking 이 나왔음
+      Easy-to-use
+    + https://www.youtube.com/watch?v=ldWy3885qXc
 
 - 협업필터링과 스태킹 모형을 이용한 상품추천시스템 개발
-실험 결과는 제안 모형이 단순히 협업필터링만을 이용한 추천시스템과 스태킹 모형의 적용 없이 기계학습 모 델로 구축한 추천시스템에 비해 추천 성능이 향상됨을 보였다
-http://www.ndsl.kr/ndsl/commons/util/ndslOriginalView.do?dbt=JAKO&cn=JAKO201918454913903&oCn=JAKO201918454913903&pageCode=PG11&journal=NJOU00576176
+> 실험 결과는 제안 모형이 단순히 협업필터링만을 이용한 추천시스템과 스태킹 모형의 적용 없이 기계학습 모 델로 구축한 추천시스템에 비해 추천 성능이 향상됨을 보였다
++ http://www.ndsl.kr/ndsl/commons/util/ndslOriginalView.do?dbt=JAKO&cn=JAKO201918454913903&oCn=JAKO201918454913903&pageCode=PG11&journal=NJOU00576176
 
 - 영화추천을 위한 합성곱 신경망
 연구에서 제안기법(wCNN)의 추천정확도 평가를 위해 선행연구[14]의 기법인 wDNN과 비교하였다. 제안 기법은 전통적 사용자 기반 협업필터링 방식(CF)에 비해 영화추천시스템의 정확도를 크게 개선하였다. 또한 심층신경망을 이용한 기법(wDNN)에 비해서도 정확도가 개선되었다.
