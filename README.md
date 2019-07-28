@@ -9,7 +9,7 @@
 ### Collaborative filtering recommender systems
 - user base
 - item base
-* cold start 문제 발생
+*cold start 문제 발생*
 ### Content-based recommender systems
 - Eucleaean Distance
 > 다차원의 공간 좌표에서 두점의 거리를 재는 방법
