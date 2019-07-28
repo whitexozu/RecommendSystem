@@ -33,28 +33,30 @@
       LTR 분야<br />
       Light GBM 같은 기존 모델이 있었으나 대용량 처리를 위해 TF-Ranking 이 나왔음<br />
       Easy-to-use
-    > + https://www.youtube.com/watch?v=ldWy3885qXc
+      tensorflow-ranking을 이용한 개발 가능
+    + https://www.youtube.com/watch?v=ldWy3885qXc
 
 - 협업필터링과 스태킹 모형을 이용한 상품추천시스템 개발
     > 실험 결과는 제안 모형이 단순히 협업필터링만을 이용한 추천시스템과 스태킹 모형의 적용 없이 기계학습 모 델로 구축한 추천시스템에 비해 추천 성능이 향상됨을 보였다
-    > + http://www.ndsl.kr/ndsl/commons/util/ndslOriginalView.do?dbt=JAKO&cn=JAKO201918454913903&oCn=JAKO201918454913903&pageCode=PG11&journal=NJOU00576176
+    + http://www.ndsl.kr/ndsl/commons/util/ndslOriginalView.do?dbt=JAKO&cn=JAKO201918454913903&oCn=JAKO201918454913903&pageCode=PG11&journal=NJOU00576176
 
 - 영화추천을 위한 합성곱 신경망
-연구에서 제안기법(wCNN)의 추천정확도 평가를 위해 선행연구[14]의 기법인 wDNN과 비교하였다. 제안 기법은 전통적 사용자 기반 협업필터링 방식(CF)에 비해 영화추천시스템의 정확도를 크게 개선하였다. 또한 심층신경망을 이용한 기법(wDNN)에 비해서도 정확도가 개선되었다.
-http://www.ndsl.kr/ndsl/commons/util/ndslOriginalView.do?dbt=JAKO&cn=JAKO201911338887828&oCn=JAKO201911338887828&pageCode=PG11&journal=NJOU00557104
-http://www.ndsl.kr/ndsl/commons/util/ndslOriginalView.do?dbt=JAKO&cn=JAKO201913649329455&oCn=JAKO201913649329455&pageCode=PG11&journal=NJOU00431883
+    > 연구에서 제안기법(wCNN)의 추천정확도 평가를 위해 선행연구[14]의 기법인 wDNN과 비교하였다. 제안 기법은 전통적 사용자 기반 협업필터링 방식(CF)에 비해 영화추천시스템의 정확도를 크게 개선하였다. 또한 심층신경망을 이용한 기법(wDNN)에 비해서도 정확도가 개선되었다.
+    + http://www.ndsl.kr/ndsl/commons/util/ndslOriginalView.do?dbt=JAKO&cn=JAKO201911338887828&oCn=JAKO201911338887828&pageCode=PG11&journal=NJOU00557104
+    + http://www.ndsl.kr/ndsl/commons/util/ndslOriginalView.do?dbt=JAKO&cn=JAKO201913649329455&oCn=JAKO201913649329455&pageCode=PG11&journal=NJOU00431883
 
 
 ## 평가방법
-- F1 Score
+> F1 Score
 
 ## 이후 연구 목표
-- 빅데이터 분석 기법을 이용한 실시간 대중교통 경로 안내 시스템의 설계 및 구현<br />
-http://www.ndsl.kr/ndsl/commons/util/ndslOriginalView.do?dbt=JAKO&cn=JAKO201909469054746&oCn=JAKO201909469054746&pageCode=PG11&journal=NJOU00292001
+- 빅데이터 분석 기법을 이용한 실시간 대중교통 경로 안내 시스템의 설계 및 구현
+    +  http://www.ndsl.kr/ndsl/commons/util/ndslOriginalView.do?dbt=JAKO&cn=JAKO201909469054746&oCn=JAKO201909469054746&pageCode=PG11&journal=NJOU00292001
 
-자동차 번호판 인식기 - Python, 이미지 프로세싱
-https://github.com/kairess/movie_recommendation_engine.git
-이미지 프로세싱과 AgensGraph 의 데이터 시각화 이미지를 결합한 실시간 분석
+- 자동차 번호판 인식기 - Python, 이미지 프로세싱
+    > 이미지 프로세싱과 AgensGraph 의 데이터 시각화 이미지를 결합한 실시간 분석
+    + https://github.com/kairess/movie_recommendation_engine.git
+
 
 ## 테스트가 필요한 내용들
 ### 앙상블 방법론
