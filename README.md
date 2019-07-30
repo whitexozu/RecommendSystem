@@ -11,7 +11,7 @@
 - item base
 *cold start 문제 발생*
 ### Content-based recommender systems
-- Eucleaean Distance
+- Euclidean Distance
 > 다차원의 공간 좌표에서 두점의 거리를 재는 방법
 > 두 문서븨 백터의 값이 양적 균등하지 않은 경우 유클리디안 거리는 합리적이지 않다고 판단. 
 - Cosine Simularity
