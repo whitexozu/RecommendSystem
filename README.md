@@ -47,6 +47,7 @@
 
 
 ## 평가방법
+![ConfusionMatrix](./image/ConfusionMatrix.PNG)
 > F1 Score
 
 ## 이후 연구 목표
