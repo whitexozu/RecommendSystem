@@ -14,7 +14,7 @@
 - Euclidean Distance
 > 다차원의 공간 좌표에서 두점의 거리를 재는 방법
 > 두 문서븨 백터의 값이 양적 균등하지 않은 경우 유클리디안 거리는 합리적이지 않다고 판단. 
-- Cosine Simularity
+- Cosine Similarity
 > 원점으로 부터의 발생하는 성향 분석에 유리
 - Pearson Correlation
 ### Hybrid recommender systems
