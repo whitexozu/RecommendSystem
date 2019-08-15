@@ -48,7 +48,6 @@
 
 ## 평가방법
 ![ConfusionMatrix](./image/ConfusionMatrix.PNG)
-> F1 Score
 
 ## 이후 연구 목표
 - 빅데이터 분석 기법을 이용한 실시간 대중교통 경로 안내 시스템의 설계 및 구현
